@@ -1,0 +1,11 @@
+body{
+    background-color: #008069;
+}
+div{
+    height: 1200px;
+    width: 800px;
+    background-image: url("contact.jpg");
+    background-size: cover;
+    /* background-size: auto; */
+    margin-left: 300px;
+}
